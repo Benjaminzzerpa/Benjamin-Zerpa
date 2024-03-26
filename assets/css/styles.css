@@ -1,0 +1,36 @@
+body {
+    font-family: 'Archivo', sans-serif;
+  }
+
+  .bg-violet-strong{
+    background-color: #986DFF;
+  }
+
+  .bg-neutral-strong{
+    background-color: #111111;
+  }
+
+  .bg-neutral-weak{
+    background-color: #151515;
+  }
+
+  .text-violet-strong{
+    color: #986DFF;
+  }
+
+  .text-gray-weak{
+    color: #9AA1AD;
+  }
+
+  ::-webkit-scrollbar {
+    width: 8px
+  }
+
+  ::-webkit-scrollbar-track {
+    background-color: #111
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: #986dff;
+    border-radius: 8px
+  }
